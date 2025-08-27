@@ -1,5 +1,5 @@
 streamlit
 pandas
 scikit-learn
-git+https://github.com/JustAnotherArchivist/snscrape.git@master
+snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git
 
