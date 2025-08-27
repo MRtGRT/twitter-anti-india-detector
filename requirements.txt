@@ -2,3 +2,4 @@ streamlit
 pandas
 scikit-learn
 matplotlib
+git+https://github.com/JustAnotherArchivist/snscrape.git
